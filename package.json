@@ -26,7 +26,7 @@
     "nock": "10.0.6",
     "nodemon": "1.18.9",
     "sinon": "7.2.3",
-    "smee-client": "1.0.2"
+    "smee-client": "3.1.1"
   },
   "standard": {
     "env": [
